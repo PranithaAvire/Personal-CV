@@ -1,0 +1,32 @@
+body{
+	background-color:mistyrose;
+}
+hr{
+	border-color: purple;
+	border-width: 6px;
+	border-style: none;
+	border-top-style: dotted;
+	width:30%
+}
+h1{
+	color: #DF5E5E
+}
+h2{
+	color: #DF5E5E
+}
+.hobbies{
+	color:#9B72AA;
+}
+.border{
+	border-radius: 100%;
+}
+img:hover{
+	background-color: green;
+}
+.dog{
+	background-color: purple;
+}
+.dap{
+	background-color: blue;
+	border-radius: 100%;
+}
